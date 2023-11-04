@@ -15,7 +15,7 @@ app.use(express.static(`${__dirname}/public`));
 
 // Connect to TurtlePay Cache
 const daemon: BlockchainCacheApi = new BlockchainCacheApi(
-  "blockapi.turtlepay.io",
+  "89.233.104.120",
   true
 );
 
