@@ -1,7 +1,7 @@
 {
   "name": "clutch-web-wallet",
-  "version": "0.0.1",
-  "description": "Browser based CLI wallet for TurtleCoin.",
+  "version": "0.0.2",
+  "description": "Browser based CLI wallet for Toj.",
   "main": "app,js",
   "scripts": {
     "start": "nodemon app.js",
